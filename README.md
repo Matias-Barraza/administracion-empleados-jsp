@@ -8,7 +8,7 @@ La aplicación de Administración de Empleados es una solución robusta para la 
 
 - Haz clic en la imagen para ver un video de demostración del proyecto.
 
-[![Demo video](media/01.png)](media/demovideo.mp4)
+[![Demo video](media/01.png)](https://matias-barraza.github.io/administracion-empleados-jsp/)
 
 ## Funcionalidades
 
@@ -38,5 +38,4 @@ La aplicación de Administración de Empleados es una solución robusta para la 
 
 - Haz clic en la imagen para ver un video de demostración del proyecto.
 
-[![Demo video](media/01.png)](media/demovideo.mp4)
-
+[![Demo del Proyecto](media/01.png)](https://matias-barraza.github.io/administracion-empleados-jsp/)
