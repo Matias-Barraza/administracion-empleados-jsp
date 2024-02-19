@@ -1,6 +1,6 @@
 # Administración de Empleados
 
-Este proyecto es una aplicación web para la administración de empleados, desarrollada utilizando JSP, Spring Data, MySQL y Bootstrap, implementado bajo el patrón de diseño MVC (Modelo-Vista-Controlador).
+Este proyecto es una aplicación web para la administración de empleados, desarrollada utilizando JSP, JSTL, Spring Data, MySQL y Bootstrap, implementado bajo el patrón de diseño MVC (Modelo-Vista-Controlador).
 
 ## Descripción
 
